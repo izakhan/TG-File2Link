@@ -1,7 +1,7 @@
 <h1 align="center">Telegram File Stream Bot</h1>
 <p align="center">
-  <a href="https://github.com/P-Phreak/Pyro-FileStreamBot">
-    <img src="https://socialify.git.ci/P-Phreak/Pyro-FileStreamBot/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&logo=https%3A%2F%2Fwww.flaticon.com%2Fpremium-icon%2Ficons%2Fsvg%2F2321%2F2321089.svg&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
+  <a href="https://github.com/PredatorHackerzZ/TG-File2Link">
+    <img src="https://socialify.git.ci/PredatorHackerzZ/TG-File2Link/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&logo=https%3A%2F%2Fwww.flaticon.com%2Fpremium-icon%2Ficons%2Fsvg%2F2321%2F2321089.svg&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
   </a>
   <p align="center">
     A Telegram bot to stream files to web
@@ -152,11 +152,11 @@ To get an instant stream link, just forward any media to the bot and boom, its f
 - Added Broadcast Feature!
 - Added Both Channel & Private Chat Support!
 - Made Better Bin Channel Logging!
-
+- Added 4GB+ Support in Repo.
 ### Channel Support:
 Bot also Supported with Channels. Just add bot Channel as Admin. If any new file comes in Channel it will edit it with **Get Download Link** Button.
 
 ## Credits
 
 - [@EverythingSuckz](https://github.com/EverythingSuckz) & [@AbirHasan2005](https://github.com/AbirHasan2005)
-- [@PredatorHackerzZ](https://github.com/P-Phreak) 
+- [@PredatorHackerzZ](https://github.com/PredatorHackerzZ) 
