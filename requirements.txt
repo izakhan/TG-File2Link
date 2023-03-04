@@ -1,7 +1,0 @@
-pyrogram==1.4.16
-tgcrypto
-aiohttp
-python-dotenv
-motor
-aiofiles
-dnspython
